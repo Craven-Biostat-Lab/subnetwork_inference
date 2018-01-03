@@ -1,0 +1,16 @@
+solnpoolpop 1
+parallelmode -1
+cuts 5
+covers -1
+disjcuts -1
+flowcovers -1
+flowpaths -1
+gubcovers -1
+mcfcuts -1
+mircuts -1
+lpmethod 6
+lbheur 1
+repeatpresolve 3
+probe 3
+
+threads 8
